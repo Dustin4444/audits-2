@@ -1115,28 +1115,6 @@ The deployed contracts are verified in accordance to the [proposal](https://rese
 
 See [full report](L2/wstETH-on-Lisk-2025-04-MixBytes-deployment-verification.pdf) for more details.
 
-## Lido on Polygon PoS
-
-### 04-2022 Lido On Polygon Smart Contracts Security Audit for PR#69
-
-- Total Issues: 9 (4 Fixed, 1 Acknowledged, 1 No Issue)
-- Critical Issues: 0
-- Major Issues: 0
-- Warning Issues: 0
-- Info Issues: 9 (4 Fixed, 1 Acknowledged, 1 No Issue)
-
-See [full report](polygon/Oxorio%20Lido%20on%20Polygon%20pr69%20report%2004-2022.pdf) for more details.
-
-### 08-2022 Oxorio Lido on Polygon V2
-
-- Total Issues: 107 (61 Fixed, 11 Acknowledged, 35 No Issue)
-- Critical Issues: 0
-- Major Issues: 0
-- Warning Issues: 14 (12 Fixed, 2 No Issue)
-- Info Issues: 93 (49 Fixed, 11 Acknowledged, 33 No Issue)
-
-See [full report](polygon/Oxorio%20Lido%20on%20Polygon%20V2%2008-2022.pdf) for more details.
-
 ### 03-2026 Cantina zkSync Lido Bridge PR-85 Fix Review
 
 Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [August 2023 Cantina audit](L2/zkSync-2023-10-Cantina-Audit-Report.pdf)). No additional issues were identified.
@@ -1269,3 +1247,28 @@ See [full report](earn/Lido%20GGV%20Migrator%20V2%20Security%20Audit%20Report.pd
 - Total Issues: 0
 
 See [full report](earn/Lido%20AAVE%20Migrator%20Security%20Audit%20Report.pdf) for more details.
+
+## Lido on Polygon PoS
+
+> [!WARNING]
+> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See [Sunsetting Lido on Polygon](https://help.lido.fi/en/articles/10289349-sunsetting-lido-on-polygon) and the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
+
+### 04-2022 Lido On Polygon Smart Contracts Security Audit for PR#69
+
+- Total Issues: 9 (4 Fixed, 1 Acknowledged, 1 No Issue)
+- Critical Issues: 0
+- Major Issues: 0
+- Warning Issues: 0
+- Info Issues: 9 (4 Fixed, 1 Acknowledged, 1 No Issue)
+
+See [full report](polygon/Oxorio%20Lido%20on%20Polygon%20pr69%20report%2004-2022.pdf) for more details.
+
+### 08-2022 Oxorio Lido on Polygon V2
+
+- Total Issues: 107 (61 Fixed, 11 Acknowledged, 35 No Issue)
+- Critical Issues: 0
+- Major Issues: 0
+- Warning Issues: 14 (12 Fixed, 2 No Issue)
+- Info Issues: 93 (49 Fixed, 11 Acknowledged, 33 No Issue)
+
+See [full report](polygon/Oxorio%20Lido%20on%20Polygon%20V2%2008-2022.pdf) for more details.
