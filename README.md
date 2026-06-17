@@ -1129,6 +1129,8 @@ Audits of the Mellow vault infrastructure powering Lido Earn and of the Lido-sid
 
 ### 07-2025 Sherlock Mellow Protocol Security Review (Best Efforts Audit Contest)
 
+Audited at final commit [`72f689f`](https://github.com/mellow-finance/flexible-vaults/tree/72f689f965e4ac1a4c2bcfb645a8b5416cf740c7).
+
 - Total Issues: 15 (all Fixed or Acknowledged)
 - High Issues: 6
 - Medium Issues: 9
@@ -1137,6 +1139,8 @@ Audits of the Mellow vault infrastructure powering Lido Earn and of the Lido-sid
 See [full report](earn/2025-07-28_Sherlock_Mellow-Core-Vaults.pdf) for more details.
 
 ### 09-2025 Nethermind Mellow Core Vaults Security Review (NM-0587)
+
+Audited at commit [`69413d5`](https://github.com/mellow-finance/flexible-vaults/tree/69413d545f788c0ad4ff7fe08085fb55589c5c61).
 
 - Total Issues: 5 (4 Fixed, 1 Acknowledged)
 - Critical Issues: 0
@@ -1149,11 +1153,15 @@ See [full report](earn/2025-09-03_Nethermind_Mellow-Core-Vaults.pdf) for more de
 
 ### 10-2025 Nethermind Mellow Migrator Security Review (NM-0682)
 
+Audited at commit [`a04e285`](https://github.com/mellow-finance/flexible-vaults/tree/a04e285fe859dcd720e8b827628a98d0cc46c02c).
+
 - Total Issues: 0
 
 See [full report](earn/2025-10-15_Nethermind_NM-0682_Mellow.pdf) for more details.
 
 ### 11-2025 Nethermind Mellow Oracle Submitter Security Review (NM-0703)
+
+Audited at commit [`d3bf393`](https://github.com/mellow-finance/flexible-vaults/tree/d3bf39373357f9f2049eddda951c0428ce305b6c).
 
 - Total Issues: 2 (2 Acknowledged)
 - Critical Issues: 0
@@ -1166,6 +1174,8 @@ See [full report](earn/2025-11-17_Nethermind_NM-0703_Mellow.pdf) for more detail
 
 ### 11-2025 Nethermind Mellow Swap Module Security Review (NM-0735)
 
+Audited at commit [`688382e`](https://github.com/mellow-finance/flexible-vaults/tree/688382ebb8860cb4e0b9336f9f2349e159ac3d05).
+
 - Total Issues: 2 (2 Acknowledged)
 - Critical Issues: 0
 - High Issues: 0
@@ -1177,11 +1187,15 @@ See [full report](earn/2025-11-19_Nethermind_NM-0735_Mellow.pdf) for more detail
 
 ### 12-2025 Nethermind Mellow SyncDepositQueue Security Review (NM-0758)
 
+Audited at commit [`f4c311b`](https://github.com/mellow-finance/flexible-vaults/tree/f4c311b73c3b2eaae01e8e668f6df2fef6aee048).
+
 - Total Issues: 0
 
 See [full report](earn/2025-12-09_Nethermind_NM-0758_Mellow.pdf) for more details.
 
 ### 01-2026 Nethermind Mellow BurnableTokenizedShareManager Security Review (NM-0798)
+
+Audited at commit [`09d8155`](https://github.com/mellow-finance/flexible-vaults/tree/09d81553d719f38ace8a646551d6b043c345df8a).
 
 - Total Issues: 0
 
@@ -1189,11 +1203,15 @@ See [full report](earn/2026-01-07_Nethermind_NM-0798_Mellow.pdf) for more detail
 
 ### 01-2026 Nethermind Mellow Redeem Queue Fee Fix Security Review (NM-0812)
 
+Audited at commit [`685be83`](https://github.com/mellow-finance/flexible-vaults/tree/685be8395aef17e41615cf0bfebfbfbd51c3b582).
+
 - Total Issues: 0
 
 See [full report](earn/2026-01-21_Nethermind_NM-0812_Mellow.pdf) for more details.
 
 ### 03-2026 Nethermind Mellow SyncDepositQueue Re-Review (NM-0758)
+
+Audited at commit [`c9c7181`](https://github.com/mellow-finance/flexible-vaults/tree/c9c71818f0a8bead183f9860db3b8bbceb7b8f37).
 
 Updated review reflecting a fix identified on February 27, 2026.
 
@@ -1202,6 +1220,8 @@ Updated review reflecting a fix identified on February 27, 2026.
 See [full report](earn/2026-03-02_Nethermind_NM-0758_Mellow.pdf) for more details.
 
 ### 04-2026 Nethermind Mellow PermissionedChainlinkOracle Security Review (NM-0891)
+
+Audited at commit [`bcf37ae`](https://github.com/mellow-finance/flexible-vaults/tree/bcf37aef95cefc45be9c4b8988126c5f7d3d6788).
 
 - Total Issues: 1 (1 Acknowledged)
 - Critical Issues: 0
@@ -1214,6 +1234,8 @@ See [full report](earn/2026-04-13_Nethermind_NM-0891_Mellow.pdf) for more detail
 
 ### 04-2026 MixBytes ATokenWstETHSwap Security Audit
 
+Audited at commit [`00432c9`](https://github.com/lidofinance/atoken-wsteth-swap/tree/00432c9a76049dfd9ab0804dfa892ff3ea4b89af).
+
 - Total Issues: 6 (6 Acknowledged)
 - Critical Issues: 0
 - High Issues: 0
@@ -1223,6 +1245,8 @@ See [full report](earn/2026-04-13_Nethermind_NM-0891_Mellow.pdf) for more detail
 See [full report](earn/Lido%20ATokenWstETHSwap%20Security%20Audit%20Report.pdf) for more details.
 
 ### 04-2026 MixBytes GGV Migrator Security Audit
+
+Audited at commit [`da93276`](https://github.com/mellow-finance/flexible-vaults/tree/da932764a3e9fbc71127f39aa1006a2ddf73d46c).
 
 - Total Issues: 2 (2 Acknowledged)
 - Critical Issues: 0
@@ -1234,6 +1258,8 @@ See [full report](earn/Lido%20GGV%20Migrator%20Security%20Audit%20Report.pdf) fo
 
 ### 05-2026 MixBytes GGV Migrator V2 Security Audit
 
+Audited at commit [`07adcc0`](https://github.com/mellow-finance/flexible-vaults/tree/07adcc04ecc3279edb9de0b67194ab0a91dbe025).
+
 - Total Issues: 1 (1 Acknowledged)
 - Critical Issues: 0
 - High Issues: 0
@@ -1243,6 +1269,8 @@ See [full report](earn/Lido%20GGV%20Migrator%20Security%20Audit%20Report.pdf) fo
 See [full report](earn/Lido%20GGV%20Migrator%20V2%20Security%20Audit%20Report.pdf) for more details.
 
 ### 06-2026 MixBytes AAVE Migrator Security Audit
+
+Audited at commit [`82b1849`](https://github.com/mellow-finance/flexible-vaults/tree/82b1849c30f26f0c2a7940feb28bc6c5937ca791).
 
 - Total Issues: 0
 
