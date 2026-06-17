@@ -1115,7 +1115,143 @@ The deployed contracts are verified in accordance to the [proposal](https://rese
 
 See [full report](L2/wstETH-on-Lisk-2025-04-MixBytes-deployment-verification.pdf) for more details.
 
+### 03-2026 Cantina zkSync Lido Bridge PR-85 Fix Review
+
+Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [October 2023 Cantina audit](L2/zkSync-2023-10-Cantina-Audit-Report.pdf)). No additional issues were identified.
+
+- Total Issues: 0
+
+See [full report](L2/zkSync-2026-03-05-Cantina-PR-85-fix-report.pdf) for more details.
+
+## Lido Earn
+
+Audits of the Mellow vault infrastructure powering Lido Earn and of the Lido-side integration contracts.
+
+### 07-2025 Sherlock Mellow Protocol Security Review (Best Efforts Audit Contest)
+
+- Total Issues: 15 (all Fixed or Acknowledged)
+- High Issues: 6
+- Medium Issues: 9
+- Issues Not Fixed and Not Acknowledged: 0
+
+See [full report](earn/2025-07-28_Sherlock_Mellow-Core-Vaults.pdf) for more details.
+
+### 09-2025 Nethermind Mellow Core Vaults Security Review (NM-0587)
+
+- Total Issues: 5 (4 Fixed, 1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 2
+- Medium Issues: 0
+- Low Issues: 0
+- Info Issues: 3
+
+See [full report](earn/2025-09-03_Nethermind_Mellow-Core-Vaults.pdf) for more details.
+
+### 10-2025 Nethermind Mellow Migrator Security Review (NM-0682)
+
+- Total Issues: 0
+
+See [full report](earn/2025-10-15_Nethermind_NM-0682_Mellow.pdf) for more details.
+
+### 11-2025 Nethermind Mellow Oracle Submitter Security Review (NM-0703)
+
+- Total Issues: 2 (2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 0
+- Info Issues: 2
+
+See [full report](earn/2025-11-17_Nethermind_NM-0703_Mellow.pdf) for more details.
+
+### 11-2025 Nethermind Mellow Swap Module Security Review (NM-0735)
+
+- Total Issues: 2 (2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 0
+- Best Practices Issues: 2
+
+See [full report](earn/2025-11-19_Nethermind_NM-0735_Mellow.pdf) for more details.
+
+### 12-2025 Nethermind Mellow SyncDepositQueue Security Review (NM-0758)
+
+- Total Issues: 0
+
+See [full report](earn/2025-12-09_Nethermind_NM-0758_Mellow.pdf) for more details.
+
+### 01-2026 Nethermind Mellow BurnableTokenizedShareManager Security Review (NM-0798)
+
+- Total Issues: 0
+
+See [full report](earn/2026-01-07_Nethermind_NM-0798_Mellow.pdf) for more details.
+
+### 01-2026 Nethermind Mellow Redeem Queue Fee Fix Security Review (NM-0812)
+
+- Total Issues: 0
+
+See [full report](earn/2026-01-21_Nethermind_NM-0812_Mellow.pdf) for more details.
+
+### 03-2026 Nethermind Mellow SyncDepositQueue Re-Review (NM-0758)
+
+Updated review reflecting a fix identified on February 27, 2026.
+
+- Total Issues: 0
+
+See [full report](earn/2026-03-02_Nethermind_NM-0758_Mellow.pdf) for more details.
+
+### 04-2026 Nethermind Mellow PermissionedChainlinkOracle Security Review (NM-0891)
+
+- Total Issues: 1 (1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 0
+- Info Issues: 1
+
+See [full report](earn/2026-04-13_Nethermind_NM-0891_Mellow.pdf) for more details.
+
+### 04-2026 MixBytes ATokenWstETHSwap Security Audit
+
+- Total Issues: 6 (6 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 2 (2 Acknowledged)
+- Low Issues: 4 (4 Acknowledged)
+
+See [full report](earn/Lido%20ATokenWstETHSwap%20Security%20Audit%20Report.pdf) for more details.
+
+### 04-2026 MixBytes GGV Migrator Security Audit
+
+- Total Issues: 2 (2 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 2 (2 Acknowledged)
+
+See [full report](earn/Lido%20GGV%20Migrator%20Security%20Audit%20Report.pdf) for more details.
+
+### 05-2026 MixBytes GGV Migrator V2 Security Audit
+
+- Total Issues: 1 (1 Acknowledged)
+- Critical Issues: 0
+- High Issues: 0
+- Medium Issues: 0
+- Low Issues: 1 (1 Acknowledged)
+
+See [full report](earn/Lido%20GGV%20Migrator%20V2%20Security%20Audit%20Report.pdf) for more details.
+
+### 06-2026 MixBytes AAVE Migrator Security Audit
+
+- Total Issues: 0
+
+See [full report](earn/Lido%20AAVE%20Migrator%20Security%20Audit%20Report.pdf) for more details.
+
 ## Lido on Polygon PoS
+
+> [!WARNING]
+> Lido on Polygon PoS has been sunset. Staking was discontinued on December 16, 2024, and unstaking via the Lido on Polygon UI was supported until June 16, 2025. See [Sunsetting Lido on Polygon](https://help.lido.fi/en/articles/10289349-sunsetting-lido-on-polygon) and the [sunset announcement](https://blog.lido.fi/lido-on-polygon-sunset/). The reports below are kept for historical reference.
 
 ### 04-2022 Lido On Polygon Smart Contracts Security Audit for PR#69
 
@@ -1136,11 +1272,3 @@ See [full report](polygon/Oxorio%20Lido%20on%20Polygon%20pr69%20report%2004-2022
 - Info Issues: 93 (49 Fixed, 11 Acknowledged, 33 No Issue)
 
 See [full report](polygon/Oxorio%20Lido%20on%20Polygon%20V2%2008-2022.pdf) for more details.
-
-### 03-2026 Cantina zkSync Lido Bridge PR-85 Fix Review
-
-Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [August 2023 Cantina audit](L2/zkSync-2023-10-Cantina-Audit-Report.pdf)). No additional issues were identified.
-
-- Total Issues: 0
-
-See [full report](L2/zkSync-2026-03-05-Cantina-PR-85-fix-report.pdf) for more details.
