@@ -1117,7 +1117,7 @@ See [full report](L2/wstETH-on-Lisk-2025-04-MixBytes-deployment-verification.pdf
 
 ### 03-2026 Cantina zkSync Lido Bridge PR-85 Fix Review
 
-Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [August 2023 Cantina audit](L2/zkSync-2023-10-Cantina-Audit-Report.pdf)). No additional issues were identified.
+Review of fixes implemented for the zkSync L1ERC20Bridge (follow-up to the [October 2023 Cantina audit](L2/zkSync-2023-10-Cantina-Audit-Report.pdf)). No additional issues were identified.
 
 - Total Issues: 0
 
