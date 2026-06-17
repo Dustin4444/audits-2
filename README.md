@@ -1201,6 +1201,8 @@ See [full report](L2/Mantle-2023-09-Verilog-L2-ERC20-Token-Bridge-Audit-Report.p
 
 ### 10-2023 Cantina zkSync Lido Bridge Audit
 
+Audited at commit [`fa6a77e`](https://github.com/txfusion/lido-l2/tree/fa6a77e694a34dc6f03d57bb8c934941e554ac9d).
+
 - Total Issues: 22 (15 Fixed, 3 Acknowledged, 4 No issue)
 - Critical Issues: 1 (1 Fixed)
 - High Issues: 0
@@ -1286,6 +1288,8 @@ The deployed contracts are verified against the [wstETH on Base](https://docs.li
 See [full report](L2/Mode-2024-07-18-Cantina-wstETH-deployment-verification.pdf) for more details.
 
 ### 07-2024 MixBytes Lido a.DI Audit
+
+Audited at commit [`41c8197`](https://github.com/lidofinance/aave-delivery-infrastructure/tree/41c81975c2ce5b430b283e6f4aab922c3bde1555).
 
 - Total Issues: 13 (13 Acknowledged)
 - Critical Issues: 0
