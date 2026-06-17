@@ -41,8 +41,6 @@ See [full report](MixBytes%20ETH2%20Oracle%20Security%20Audit%20Report%2004-2021
 
 ### 05-2021 MixBytes Audit: stETH price oracle
 
-Audited at commit [`1033b3e`](https://github.com/lidofinance/curve-merkle-oracle/tree/1033b3e84142317ffd8f366b52e489d5eb49c73f).
-
 - Total Issues: 7 (4 Fixed, 1 No issue, 2 Acknowledged)
 - Critical Issues: 0
 - Major Issues: 0
@@ -405,8 +403,6 @@ Audited at commit [`e45c4d6`](https://github.com/lidofinance/lido-dao/tree/e45c4
 See [full report](Statemind%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more details.
 
 ### 05-2023 Statemind Lido V2 Upgrade Template Audit
-
-Audited at commit [`a19c6b7`](https://github.com/lidofinance/lido-dao/tree/a19c6b7e2d661de12e2ba585c251c8d70a1da230).
 
 - Total Issues: 14 (7 Fixed, 7 Acknowledged)
 - Critical Issues: 0
