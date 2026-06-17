@@ -41,6 +41,8 @@ See [full report](MixBytes%20ETH2%20Oracle%20Security%20Audit%20Report%2004-2021
 
 ### 05-2021 MixBytes Audit: stETH price oracle
 
+Audited at commit: private source repository; no public commit available.
+
 - Total Issues: 7 (4 Fixed, 1 No issue, 2 Acknowledged)
 - Critical Issues: 0
 - Major Issues: 0
@@ -404,6 +406,8 @@ See [full report](Statemind%20Lido%20V2%20Audit%20Report%2004-23.pdf) for more d
 
 ### 05-2023 Statemind Lido V2 Upgrade Template Audit
 
+Audited at commit: audited commit is not public.
+
 - Total Issues: 14 (7 Fixed, 7 Acknowledged)
 - Critical Issues: 0
 - High Issues: 0
@@ -456,6 +460,8 @@ Audited at commit [`4467895`](https://github.com/lidofinance/lido-oracle/tree/44
 See [full report](Oxorio%20Lido%20V2%20Off-chain%20Audit%20Report%2006-23.pdf) for more details.
 
 ### 10-2023 Statemind Lido roles analysis
+
+Audited at commit: not applicable; on-chain analysis, no source commit.
 
 | Impact severity \ Attack feasibility | Low | Medium | High |
 | ------------------------------------ | --- | ------ | ---- |
@@ -1313,6 +1319,8 @@ See [full report](L2/Zircuit_2024-10-02-Quantstamp-wstETH-deployment-verificatio
 
 ### 11-2024 Nethermind Security wstETH on Starknet Deployment Verification
 
+Audited at commit: not applicable; deployment verification, no source commit.
+
 The deployed contracts are verified in accordance to the [proposal](https://research.lido.fi/t/wsteth-deployment-on-starknet/6335/9)
 
 See the [full report](L2/Starknet-2024-11-14-deployment-verification.pdf) for more details.
@@ -1357,7 +1365,7 @@ Audits of the Mellow vault infrastructure powering Lido Earn and of the Lido-sid
 
 ### 07-2025 Sherlock Mellow Protocol Security Review (Best Efforts Audit Contest)
 
-Audited at final commit [`72f689f`](https://github.com/mellow-finance/flexible-vaults/tree/72f689f965e4ac1a4c2bcfb645a8b5416cf740c7).
+Audited at commit [`72f689f`](https://github.com/mellow-finance/flexible-vaults/tree/72f689f965e4ac1a4c2bcfb645a8b5416cf740c7).
 
 - Total Issues: 15 (all Fixed or Acknowledged)
 - High Issues: 6
@@ -1368,7 +1376,7 @@ See [full report](earn/2025-07-28_Sherlock_Mellow-Core-Vaults.pdf) for more deta
 
 ### 09-2025 Nethermind Mellow Core Vaults Security Review (NM-0587)
 
-Audited at commit [`69413d5`](https://github.com/mellow-finance/flexible-vaults/tree/69413d545f788c0ad4ff7fe08085fb55589c5c61).
+Audited at commit [`72f689f`](https://github.com/mellow-finance/flexible-vaults/tree/72f689f965e4ac1a4c2bcfb645a8b5416cf740c7).
 
 - Total Issues: 5 (4 Fixed, 1 Acknowledged)
 - Critical Issues: 0
