@@ -1163,6 +1163,19 @@ An audit of the CircuitBreaker emergency pause manager.
 
 See [full report](MixBytes%20CircuitBreaker%20Audit%20Report%2004-2026.pdf) for more details.
 
+### 06-2026 Composable Security Lido Oracle v8 Security Audit
+
+Audited at commit [`cdd0767`](https://github.com/lidofinance/lido-oracle/tree/cdd076793cd371a07e9f95f7843f1e9f36574f18).
+
+- Total Issues: 21 (14 Fixed, 7 Acknowledged)
+- Critical Issues: 0
+- High Issues: 1 (1 Fixed)
+- Medium Issues: 9 (8 Fixed, 1 Acknowledged)
+- Low Issues: 6 (2 Fixed, 4 Acknowledged)
+- Info Issues: 5 (3 Fixed, 2 Acknowledged)
+
+See [full report](Composable%20Security%20Lido%20Oracle%20V8%20Audit%20Report.pdf) for more details.
+
 ## Lido Multichain audit reports
 
 ### 07-2022 Oxorio Lido L2 Smart Contracts Security Audit
